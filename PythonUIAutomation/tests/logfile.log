@@ -1,0 +1,144 @@
+2020-04-21 21:43:11,822 :INFO : test_e2e :Information statements
+2020-04-21 21:43:11,823 :WARNING : test_e2e :something is in warning mode
+2020-04-21 21:43:11,823 :ERROR : test_e2e :A major error has happened
+2020-04-21 21:43:11,823 :CRITICAL : test_e2e :critical issue
+2020-04-21 21:43:13,507 :INFO : test_e2e :Getting all cards info
+2020-04-21 21:44:38,133 :INFO : test_e2e :Information statements
+2020-04-21 21:44:38,134 :WARNING : test_e2e :something is in warning mode
+2020-04-21 21:44:38,134 :ERROR : test_e2e :A major error has happened
+2020-04-21 21:44:38,134 :CRITICAL : test_e2e :critical issue
+2020-04-21 21:44:39,364 :INFO : test_e2e :Getting all cards info
+2020-04-21 21:44:59,549 :INFO : test_formsubmission :Information statements
+2020-04-21 21:44:59,549 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:44:59,549 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:44:59,549 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:45:03,859 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:45:04,127 :INFO : test_formsubmission :Information statements
+2020-04-21 21:45:04,127 :INFO : test_formsubmission :Information statements
+2020-04-21 21:45:04,127 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:45:04,127 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:45:04,127 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:45:04,127 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:45:04,127 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:45:04,127 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:45:08,400 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:45:08,400 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:48:11,464 :INFO : test_formsubmission :Information statements
+2020-04-21 21:48:11,465 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:48:11,465 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:48:11,465 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:48:15,754 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:48:16,224 :INFO : test_formsubmission :Information statements
+2020-04-21 21:48:16,224 :INFO : test_formsubmission :Information statements
+2020-04-21 21:48:16,224 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:48:16,224 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:48:16,224 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:48:16,224 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:48:16,225 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:48:16,225 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:48:20,466 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:48:20,466 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:48:24,215 :INFO : test_e2e :Information statements
+2020-04-21 21:48:24,216 :WARNING : test_e2e :something is in warning mode
+2020-04-21 21:48:24,216 :ERROR : test_e2e :A major error has happened
+2020-04-21 21:48:24,216 :CRITICAL : test_e2e :critical issue
+2020-04-21 21:48:25,629 :INFO : test_e2e :Getting all cards info
+2020-04-21 21:49:16,744 :INFO : test_formsubmission :Information statements
+2020-04-21 21:49:16,744 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:49:16,745 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:49:16,745 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:49:21,026 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:49:21,463 :INFO : test_formsubmission :Information statements
+2020-04-21 21:49:21,463 :INFO : test_formsubmission :Information statements
+2020-04-21 21:49:21,463 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:49:21,463 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:49:21,463 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:49:21,463 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:49:21,463 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:49:21,463 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:49:25,698 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:49:25,698 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:49:28,592 :INFO : test_e2e :Information statements
+2020-04-21 21:49:28,592 :WARNING : test_e2e :something is in warning mode
+2020-04-21 21:49:28,592 :ERROR : test_e2e :A major error has happened
+2020-04-21 21:49:28,592 :CRITICAL : test_e2e :critical issue
+2020-04-21 21:49:30,466 :INFO : test_e2e :Getting all cards info
+2020-04-21 21:57:27,558 :INFO : test_formsubmission :Information statements
+2020-04-21 21:57:27,558 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:57:27,559 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:57:27,559 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:57:31,886 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:57:32,441 :INFO : test_formsubmission :Information statements
+2020-04-21 21:57:32,441 :INFO : test_formsubmission :Information statements
+2020-04-21 21:57:32,442 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:57:32,442 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 21:57:32,442 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:57:32,442 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 21:57:32,442 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:57:32,442 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 21:57:36,684 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:57:36,684 :INFO : test_formsubmission :Enter gender
+2020-04-21 21:57:40,134 :INFO : test_e2e :Information statements
+2020-04-21 21:57:40,134 :WARNING : test_e2e :something is in warning mode
+2020-04-21 21:57:40,134 :ERROR : test_e2e :A major error has happened
+2020-04-21 21:57:40,135 :CRITICAL : test_e2e :critical issue
+2020-04-21 21:57:41,369 :INFO : test_e2e :Getting all cards info
+2020-04-21 22:01:06,624 :INFO : test_formsubmission :Information statements
+2020-04-21 22:01:06,624 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 22:01:06,624 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 22:01:06,624 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 22:01:10,922 :INFO : test_formsubmission :Enter gender
+2020-04-21 22:01:11,353 :INFO : test_formsubmission :Information statements
+2020-04-21 22:01:11,353 :INFO : test_formsubmission :Information statements
+2020-04-21 22:01:11,353 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 22:01:11,353 :WARNING : test_formsubmission :something is in warning mode
+2020-04-21 22:01:11,353 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 22:01:11,353 :ERROR : test_formsubmission :A major error has happened
+2020-04-21 22:01:11,353 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 22:01:11,353 :CRITICAL : test_formsubmission :critical issue
+2020-04-21 22:01:15,570 :INFO : test_formsubmission :Enter gender
+2020-04-21 22:01:15,570 :INFO : test_formsubmission :Enter gender
+2020-04-21 22:01:18,893 :INFO : test_e2e :Information statements
+2020-04-21 22:01:18,893 :WARNING : test_e2e :something is in warning mode
+2020-04-21 22:01:18,893 :ERROR : test_e2e :A major error has happened
+2020-04-21 22:01:18,893 :CRITICAL : test_e2e :critical issue
+2020-04-21 22:01:20,065 :INFO : test_e2e :Getting all cards info
+2020-04-23 15:33:01,876 :INFO : test_e2e :Information statements
+2020-04-23 15:33:01,900 :WARNING : test_e2e :something is in warning mode
+2020-04-23 15:33:01,900 :ERROR : test_e2e :A major error has happened
+2020-04-23 15:33:01,900 :CRITICAL : test_e2e :critical issue
+2020-04-23 15:33:02,775 :INFO : test_e2e :Getting all cards info
+2020-04-23 15:34:50,356 :INFO : test_e2e :Information statements
+2020-04-23 15:34:50,356 :WARNING : test_e2e :something is in warning mode
+2020-04-23 15:34:50,357 :ERROR : test_e2e :A major error has happened
+2020-04-23 15:34:50,358 :CRITICAL : test_e2e :critical issue
+2020-04-23 15:39:27,056 :INFO : test_e2e :Information statements
+2020-04-23 15:39:27,056 :WARNING : test_e2e :something is in warning mode
+2020-04-23 15:39:27,056 :ERROR : test_e2e :A major error has happened
+2020-04-23 15:39:27,056 :CRITICAL : test_e2e :critical issue
+2020-04-23 15:39:34,075 :INFO : test_e2e :Getting all cards info
+2020-04-23 15:40:05,586 :INFO : test_e2e :Information statements
+2020-04-23 15:40:05,587 :WARNING : test_e2e :something is in warning mode
+2020-04-23 15:40:05,587 :ERROR : test_e2e :A major error has happened
+2020-04-23 15:40:05,587 :CRITICAL : test_e2e :critical issue
+2020-04-23 15:40:12,440 :INFO : test_e2e :Getting all cards info
+2020-04-23 15:40:48,263 :INFO : test_e2e :Information statements
+2020-04-23 15:40:48,263 :WARNING : test_e2e :something is in warning mode
+2020-04-23 15:40:48,264 :ERROR : test_e2e :A major error has happened
+2020-04-23 15:40:48,264 :CRITICAL : test_e2e :critical issue
+2020-04-23 15:40:55,164 :INFO : test_e2e :Getting all cards info
+2020-04-23 15:41:50,175 :INFO : test_e2e :Information statements
+2020-04-23 15:41:50,176 :WARNING : test_e2e :something is in warning mode
+2020-04-23 15:41:50,176 :ERROR : test_e2e :A major error has happened
+2020-04-23 15:41:50,176 :CRITICAL : test_e2e :critical issue
+2020-04-23 15:41:57,013 :INFO : test_e2e :Getting all cards info
+2020-04-23 15:42:54,966 :INFO : test_e2e :Information statements
+2020-04-23 15:42:54,966 :WARNING : test_e2e :something is in warning mode
+2020-04-23 15:42:54,966 :ERROR : test_e2e :A major error has happened
+2020-04-23 15:42:54,966 :CRITICAL : test_e2e :critical issue
+2020-04-23 15:43:01,833 :INFO : test_e2e :Getting all cards info
+2020-04-23 15:45:40,104 :INFO : test_e2e :Information statements
+2020-04-23 15:45:40,104 :WARNING : test_e2e :something is in warning mode
+2020-04-23 15:45:40,105 :ERROR : test_e2e :A major error has happened
+2020-04-23 15:45:40,105 :CRITICAL : test_e2e :critical issue
+2020-04-23 15:45:46,985 :INFO : test_e2e :Getting all cards info
